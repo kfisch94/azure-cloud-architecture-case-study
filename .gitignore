@@ -1,0 +1,11 @@
+*.docx
+*.xlsx
+*.pdf
+*.vsdx
+*.rar
+*.zip
+.env
+*.pem
+*.key
+Thumbs.db
+desktop.ini
